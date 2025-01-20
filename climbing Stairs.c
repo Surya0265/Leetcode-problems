@@ -17,7 +17,7 @@ int climbStairs(int n) {
 
 int main() {
     int n;
-    printf("Enter the number of stairs: ");
+    printf("Enter the number of stairs - ");
     scanf("%d", &n);
 
     int ways = climbStairs(n);
