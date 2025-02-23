@@ -1,15 +1,15 @@
-# LeetCode Solutions
+# LeetCode Problems
 
-This repository contains my solutions to various LeetCode problems, categorized by difficulty and topic. The goal is to improve problem-solving skills, optimize code efficiency, and prepare for coding interviews.
+This repository contains my solutions to various LeetCode problems, categorized by different topic. The goal is to improve problem-solving skills, optimize code efficiency, and prepare for coding interviews.
 
 ## 🚀 How to Use
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/LeetCode-Solutions.git
-   cd LeetCode-Solutions
+   git clone https://github.com/Surya0265/LeetCode-problems.git
+   cd LeetCode-problems
    ```
-2. Navigate to the respective problem category (Easy, Medium, Hard).
-3. Open and run the solution in your preferred programming environment.
+2. Navigate to the respective problem category.
+
 
 ## 🏆 Topics Covered
 - Arrays & Strings
@@ -19,13 +19,12 @@ This repository contains my solutions to various LeetCode problems, categorized 
 - Recursion & Backtracking
 - Sorting & Searching
 - Bit Manipulation
-- Math & Number Theory
+- 
 
 ## 🛠 Languages Used
-- Python 🐍
-- Java ☕
-- C++ 🔧
-- JavaScript ⚡
+- Python 
+- C
+  
 
 ## 📖 References
 - [LeetCode](https://leetcode.com/)
