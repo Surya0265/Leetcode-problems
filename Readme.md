@@ -17,8 +17,8 @@ This repository contains my solutions to various LeetCode problems, categorized 
 - Bit Manipulation
 - Hash Tables
 - Two Pointers
--Prefix Sum
-- 
+- Prefix Sum
+  
 
 ## 🛠 Languages Used
 - Python 
@@ -27,8 +27,7 @@ This repository contains my solutions to various LeetCode problems, categorized 
 
 ## 📖 References
 - [LeetCode](https://leetcode.com/)
-- [GeeksforGeeks](https://www.geeksforgeeks.org/)
-- [InterviewBit](https://www.interviewbit.com/)
+
 
 ## 🤝 Contributing
 Feel free to submit pull requests for improvements or additional solutions.
