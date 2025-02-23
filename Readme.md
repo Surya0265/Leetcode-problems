@@ -12,13 +12,12 @@ This repository contains my solutions to various LeetCode problems, categorized 
 
 
 ## 🏆 Topics Covered
-- Arrays & Strings
-- Linked Lists
-- Dynamic Programming
-- Graphs & Trees
-- Recursion & Backtracking
-- Sorting & Searching
+- Arrays
+-Strings 
 - Bit Manipulation
+- Hash Tables
+- Two Pointers
+-Prefix Sum
 - 
 
 ## 🛠 Languages Used
