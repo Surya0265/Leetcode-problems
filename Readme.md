@@ -18,6 +18,9 @@ This repository contains my solutions to various LeetCode problems, categorized 
 - Hash Tables
 - Two Pointers
 - Prefix Sum
+- Sliding Window-Fixed size
+- Sliding Window-Dynamic size
+- Kadane's Algorithm
   
 
 ## 🛠 Languages Used
