@@ -21,6 +21,8 @@ This repository contains my solutions to various LeetCode problems, categorized 
 - Sliding Window-Fixed size
 - Sliding Window-Dynamic size
 - Kadane's Algorithm
+- 2D Matrix
+  
   
 
 ## 🛠 Languages Used
