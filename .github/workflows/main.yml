@@ -9,11 +9,12 @@ on:
   create:
   delete:
   release:
-  workflow_dispatch: # Allows manual trigger
+  workflow_dispatch: # Allows manual triggering
 
 jobs:
   notify:
     runs-on: ubuntu-latest
+
     steps:
       - name: Send notification to Discord
         env:
