@@ -1,8 +1,6 @@
 class Solution:
     def setZeroes(self, matrix: List[List[int]]) -> None:
-        """
-        Do not return anything, modify matrix in-place instead.
-        """
+       
         n=len(matrix)
         m=len(matrix[0])
         rows=[0]*n
