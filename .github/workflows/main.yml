@@ -9,12 +9,11 @@ on:
   create:
   delete:
   release:
-  workflow_dispatch: # Allows manual triggering
+  workflow_dispatch: # Allows manual trigger
 
 jobs:
   notify:
     runs-on: ubuntu-latest
-
     steps:
       - name: Send notification to Discord
         env:
@@ -34,3 +33,4 @@ jobs:
                -X POST \
                -d "{\"username\": \"GitHub Actions\", \"content\": \"$MESSAGE\"}" \
                "$DISCORD_WEBHOOK"
+
