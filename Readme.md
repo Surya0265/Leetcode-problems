@@ -1,6 +1,6 @@
 # LeetCode Problems
 
-This repository contains my solutions to various LeetCode problems, categorized by different topics. The goal is to improve problem-solving skills, optimize code efficiency, and prepare for coding interviews.
+This repository contains my solutions to various LeetCode problems, categorized by different topicsgit. The goal is to improve problem-solving skills, optimize code efficiency, and prepare for coding interviews.
 
 ## 🚀 How to Use
 1. Clone the repository:
