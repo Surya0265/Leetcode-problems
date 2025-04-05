@@ -23,6 +23,7 @@ This repository contains my solutions to various LeetCode problems, categorized 
 - Kadane's Algorithm
 - 2D Matrix
 - Linked List
+- Stack
   
   
 
