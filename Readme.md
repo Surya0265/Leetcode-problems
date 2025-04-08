@@ -24,6 +24,7 @@ This repository contains my solutions to various LeetCode problems, categorized 
 - 2D Matrix
 - Linked List
 - Stack
+- Monotonic Stack
   
   
 
