@@ -26,6 +26,7 @@ This repository contains my solutions to various LeetCode problems, categorized 
 - Stack
 - Monotonic Stack
 - QuickSelect
+- BinarySearch
   
   
 
