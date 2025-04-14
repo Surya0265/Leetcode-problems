@@ -25,6 +25,7 @@ This repository contains my solutions to various LeetCode problems, categorized 
 - Linked List
 - Stack
 - Monotonic Stack
+- QuickSelect
   
   
 
