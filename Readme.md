@@ -27,6 +27,8 @@ This repository contains my solutions to various LeetCode problems, categorized 
 - Monotonic Stack
 - QuickSelect
 - BinarySearch
+- Backtracking
+
   
   
 
