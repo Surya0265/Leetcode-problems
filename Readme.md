@@ -12,6 +12,7 @@ This repository contains my solutions to various LeetCode problems, categorized 
 
 
 ## 🏆 Topics Covered
+- Math
 - Arrays
 -Strings 
 - Bit Manipulation
@@ -28,6 +29,7 @@ This repository contains my solutions to various LeetCode problems, categorized 
 - QuickSelect
 - BinarySearch
 - Backtracking
+
 
   
   
