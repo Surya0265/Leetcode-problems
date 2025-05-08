@@ -39,7 +39,7 @@ n=int(input("Enter size"))
 board=[['.'for i in range(n)]for j in range(n)]
 board_util(board,0,n)
 
-# leetcode solutions
+# leetcode answer
 class Solution:
     def solveNQueens(self, n: int) -> List[List[str]]:
         def board_util(board, row, n):
