@@ -29,6 +29,7 @@ This repository contains my solutions to various LeetCode problems, categorized 
 - QuickSelect
 - BinarySearch
 - Backtracking
+- Tree Traversal - Preorder
 
 
   
