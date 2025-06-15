@@ -30,6 +30,7 @@ This repository contains my solutions to various LeetCode problems, categorized 
 - BinarySearch
 - Backtracking
 - Tree Traversal - Preorder
+- Level Order Traversal
 
 
   
