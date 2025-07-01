@@ -31,6 +31,7 @@ This repository contains my solutions to various LeetCode problems, categorized 
 - Backtracking
 - Tree Traversal - Preorder
 - Level Order Traversal
+- Dynamic Programming
 
 
   
