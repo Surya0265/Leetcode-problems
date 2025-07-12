@@ -12,7 +12,7 @@ class Solution:
             if left>right:
                 return None
             root_val=preorder[self.pre_index]
-            self.pre_index+1
+            
             root=TreeNode(root_val)
             self.pre_index+=1
             idx=in_order[root_val]
