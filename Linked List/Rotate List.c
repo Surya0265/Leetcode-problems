@@ -83,4 +83,31 @@ reversed_head = reverseList(head)
 print("Reversed list:")
 print_linked_list(reversed_head)
 
+python
 
+# Definition for singly-linked list.
+# class ListNode:
+#     def __init__(self, val=0, next=None):
+#         self.val = val
+#         self.next = next
+class Solution:
+    def rotateRight(self, head: Optional[ListNode], k: int) -> Optional[ListNode]:
+        tail=head
+        if not head or k==0 or  not head.next:
+            return head
+        length=1
+        while tail.next:
+            tail=tail.next
+            length+=1
+        tail.next=head
+        k=k%length
+        stepstom=length-k
+        ntail=head
+        for i in range(stepstom-1):
+            ntail=ntail.next
+        head=ntail.next
+        ntail.next=None
+        return head
+              
+
+        
